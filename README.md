@@ -42,3 +42,8 @@
         - implement the code into yours in the FileUpload.jsx, and tweak the input, allow for multiple file selections and images,gif's only
         - we need to send a res to supabase base when we upload the images 
         - don't forget to add into your next.config.mjs the third party domain of the images. 
+
+### Fourth commit properties
+    ### Publish Listing
+        - at the click of save button we need a dialogue to ask if we truly want to save/publish the listing
+        - goto shad-cn and chechk out the alert dialogue and implement it
