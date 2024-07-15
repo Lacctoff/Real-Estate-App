@@ -24,3 +24,21 @@
     -  npm install formik --save  formik is a form library
     - why formik?
         - Formik keeps track of your form's state and then exposes it plus a few reusable methods and event handlers (handleChange, handleBlur, and handleSubmit) to your form via props.
+
+## Third commit properties
+- using useState() hook & defaultValue we made sure that what ever 6the user has selected stays on the screen
+- image Upload functionality
+    ### TODO
+    - go to storage in supabase
+    - create new bucket [listingImages] & and toggle it to public
+    - save and create new policy full customization
+    - tick all boxes including INSERT, UPDATE e.t.c
+    - Name the Policy [Public] then review and save policy
+    - Goto [Table Editor] create new table add columns and click on foreign key and connect the listing id with the id
+
+    ### for uploading file we need to create
+        -in the edit-listing folder create a _components folder and a FileUpload.jsx
+        - search on google for tailwind css file upload click on Tailwind CSS File Input
+        - implement the code into yours in the FileUpload.jsx, and tweak the input, allow for multiple file selections and images,gif's only
+        - we need to send a res to supabase base when we upload the images 
+        - don't forget to add into your next.config.mjs the third party domain of the images. 
