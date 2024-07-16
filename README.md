@@ -1,11 +1,13 @@
 # APARTE (A real estate Web Application)
 
 ## Libraries
+- Next.js
 - Tailwind
 - Lucide
 - Shad cn
 - Clerk for Authentication of users
 - hyperui for forms and sign-in ui customization
+- Formik
 
 ## Second commit properties
 - Backend Setup with supabase
@@ -47,3 +49,12 @@
     ### Publish Listing
         - at the click of save button we need a dialogue to ask if we truly want to save/publish the listing
         - goto shad-cn and chechk out the alert dialogue and implement it
+
+## Fifth commit properties
+    ### display listing on Home
+    fetch data from the supabase backend api
+    Map through the objects and style accordingly
+
+## sixth commit properties
+    ### Adding skeleton loading effects on page load on home screen and also 
+    adding the search functionality
