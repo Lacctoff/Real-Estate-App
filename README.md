@@ -197,4 +197,4 @@ For any questions or inquiries, please contact yourname@example.com.
 
 ##
 
-Thank you for using Aparte! We hope you find your dream home or the perfect tenant for your property.
+Thank you for using Aparte! We hope you find your dream home or the perfect tenant for your property.........
