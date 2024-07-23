@@ -10,6 +10,9 @@ Aparte is a modern real estate web application designed to help users find house
 - Post Ads: Post your own advertisement to sell or rent a property.
 - User Authentication: Sign in with email, Facebook, or Google.
 
+## Deployed Webapp URL
+[Apate](https://aparte-stay.vercel.app/ "Visit Aparte")
+
 ## Tech Stack
 
 Aparte is built using the following libraries and technologies:
@@ -193,7 +196,9 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact yourname@example.com.
+For any questions or inquiries, please contact 
+1. [Lasisi Oluwatofunmi](mailto:lasisitofunmi@gmail.com)
+2. [Tella Titobiloluwa](mailto:titobiloluwatella@gmail.com)
 
 ##
 
